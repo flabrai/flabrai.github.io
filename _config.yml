@@ -21,13 +21,8 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "archive.html", sidebaricon: home}
   - {file: "aboutme.md", sidebaricon: address-card}
   - {title: "CV", file: "/FLI.pdf", icon: home}
+  - {title: "Seminars", file: "seminars.md", sidebaricon: "calendar"}
 
-  - title: "Seminars"
-    sidebaricon: "calendar"
-    children:
-      - {title: "Seminar 1", file: "seminar1.md"}
-      - {title: "Seminar 2", file: "seminar2.md"}
-      - {title: "Seminar 3", file: "seminar3.md"}
 
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
