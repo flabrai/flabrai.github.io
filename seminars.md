@@ -6,7 +6,7 @@ permalink: "/Seminars/"
 
 ## Organized Seminars
 
-prueba 2 olakase
+prueba 3 olakase
 
 - [Seminar 1]({{ '/seminar1/' | relative_url }})
 - [Seminar 2]({{ '/seminar2.md/' | relative_url }})
