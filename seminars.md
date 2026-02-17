@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Seminars
+permalink: "/Seminars/"
 ---
 
 ## Organized Seminars
