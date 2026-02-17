@@ -6,9 +6,10 @@ layout: page
 
 ## About me
 
-![screenshot](foto.jpeg)
 
-## prueba 
+
+<!-- ![screenshot](foto.jpeg) -->
+
 
 <img src="{{ '/foto.jpeg' | relative_url }}" 
      width="60%" 
