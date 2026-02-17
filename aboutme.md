@@ -6,7 +6,7 @@ layout: page
 
 ## About me
 
-![screenshot](WhatsApp%20Image%202026-02-17%20at%206.08.55%20PM.jpeg)
+![screenshot](foto.jpeg)
 
 
 
