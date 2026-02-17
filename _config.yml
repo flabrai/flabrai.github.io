@@ -24,6 +24,13 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {title: "Seminars", file: "seminars.md", sidebaricon: "calendar"}
 
 
+collections:
+  seminars:
+    output: true
+    permalink: /seminars/:name/
+
+
+
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
  # - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
