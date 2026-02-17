@@ -10,7 +10,8 @@ layout: page
 
 ## prueba 
 
-<img src="foto.jpeg" width="60%" align="right">
+<img src="{{ 'foto.jpeg' | relative_url }}" width="60%" align="right">
+
 
 
 
