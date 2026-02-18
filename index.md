@@ -1,6 +1,6 @@
 ---
-title: "Felipe Labra Irribarra"
 layout: page
+title: "Felipe Labra Irribarra"
 ---
 
 ## About me
