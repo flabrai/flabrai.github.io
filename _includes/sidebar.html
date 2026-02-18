@@ -1,40 +1,38 @@
-<link rel="stylesheet" href="{{ "/assets/css/sidebar.css" | relative_url }}" media="screen and (min-width: 58em)">
+<link rel="stylesheet"
+      href="{{ "/assets/css/sidebar.css" | relative_url }}"
+      media="screen and (min-width: 58em)">
 
 <aside style="display: none">
   <nav>
-  {% assign keys = 'navigation,external,footer' | split: ',' %}
 
-  {% for key in keys %}
-  {%- for item in site[key] -%}
+    {% assign keys = 'navigation,external,footer' | split: ',' %}
 
-    {%- assign node = site.pages | where: "name", item.file | first -%}
-    {%- assign url = item.url | default: node.url -%}
-    {%- assign title = item.title | default: node.title -%}
-    {%- assign icon = item.icon | default: item.sidebaricon -%}
+    {% for key in keys %}
+      {% for item in site[key] %}
 
-    <!-- Main navigation item -->
-    <a href="{{ url | relative_url }}" class="{% if url == page.url %}selected{% endif %}">
-      <svg aria-hidden="true" width="1em" height="1em">
-        <use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ icon }}"></use>
-      </svg>
-      <span>{{ title }}</span>
-    </a>
+        {% assign node  = site.pages | where: "name", item.file | first %}
+        {% assign url   = item.url   | default: node.url %}
+        {% assign title = item.title | default: node.title %}
+        {% assign icon  = item.icon  | default: item.sidebaricon %}
 
-    <!-- Automatic submenu for Seminars -->
-    {% if title == "Seminars" %}
-      {% assign sorted_seminars = site.seminars | sort: "title" %}
-      {% for seminar in sorted_seminars %}
-        <a href="{{ seminar.url | relative_url }}"
-           class="{% if seminar.url == page.url %}selected{% endif %}"
-           style="margin-left: 25px; font-size: 0.9em;">
-           ▸ {{ seminar.title }}
+        <a href="{{ url | relative_url }}"
+           class="{% if url == page.url %}selected{% endif %}">
+
+          <svg aria-hidden="true" width="1em" height="1em">
+            <use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ icon }}"></use>
+          </svg>
+
+          <span>{{ title }}</span>
+
         </a>
-      {% endfor %}
-    {% endif %}
 
-  {%- endfor -%}
-  {%- endfor -%}
+      {% endfor %}
+    {% endfor %}
 
   </nav>
-  <footer>{{ site.description }}</footer>
+
+  <footer>
+    {{ site.description }}
+  </footer>
+
 </aside>
