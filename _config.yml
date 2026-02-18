@@ -9,7 +9,7 @@ date_format: "%B %d, %Y"
 # Layout
 
 show_excerpts: false             # show article excerpts instead of archive list on the home page
-show_frame: true                # display a grey frame on large screens
+show_frame: false                # display a grey frame on large screens
 show_sidebar: true             # show a sidebar instead of the usual header
 show_minimal: false             # remove all clutter
 
@@ -18,8 +18,8 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
-  #- {file: "aboutme.md", sidebaricon: address-card}
+  #- {file: "archive.html", sidebaricon: home}
+  - {file: "index.md", sidebaricon: home}
   - {title: "CV", file: "CV.md", icon: file}
   - {title: "Research", file: "research.md", icon: book-open}
   #- {title: "Seminars", file: "seminars.md", sidebaricon: "calendar"}
