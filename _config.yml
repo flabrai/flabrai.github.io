@@ -21,7 +21,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "archive.html", sidebaricon: home}
   - {file: "aboutme.md", sidebaricon: address-card}
   - {title: "CV", file: "CV.md", icon: home}
-  - {title: "Research, file: "research.md"}
+  - {title: "Research", file: "research.md"}
   #- {title: "Seminars", file: "seminars.md", sidebaricon: "calendar"}
   - {title: "Seminars", file: "indexseminar.md", sidebaricon: "calendar"}
 
