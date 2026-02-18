@@ -1,7 +1,7 @@
 title: "Felipe Labra Irribarra"
 author: "Felipe Labra Irribarra"
 description: "Pontificia Universidad Católica de Chile"
-permalink: /:title/
+#enpermalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
