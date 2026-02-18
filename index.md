@@ -30,5 +30,4 @@ My research focuses on Partial Differential Equations (PDE), Control Theory, and
 
 During my undergraduate studies, I worked on the stabilization of Partial Differential Equations. My current research includes microlocal analysis and its applications to stabilization and inverse problems. In my master's thesis, I'm studying the stabilization of coupled Partial Differential Equations under small perturbations.
 
-
-esta va pal farin
+### Contact: flabrai-at-estudiante.uc.cl, fnlabrairribarra-at-gmail.com
