@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Felipe Labra Irribarra"
+permalink: /
 ---
 
 ## About me
