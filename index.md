@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Felipe Labra Irribarra"
+title: "Home"
 permalink: /
 ---
 
