@@ -5,7 +5,7 @@ title: Seminars
 
 ## Organized Seminars
 
-prueba 1 olakase
+prueba 2 olakase
 
 <ul>
 {% for seminar in site.seminars %}
