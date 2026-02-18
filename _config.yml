@@ -19,7 +19,7 @@ show_minimal: false             # remove all clutter
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   #- {file: "archive.html", sidebaricon: home}
-  - {title: "Home", file: "index.md", sidebaricon: home}
+  - {title: "Home", url: "/", icon: home}
   - {title: "CV", file: "CV.md", icon: file}
   - {title: "Research", file: "research.md", icon: book-open}
   #- {title: "Seminars", file: "seminars.md", sidebaricon: "calendar"}
