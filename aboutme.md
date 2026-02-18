@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "Felipe Labra Irribarra"
 permalink: "/about/"
 layout: page
 ---
