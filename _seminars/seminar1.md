@@ -19,35 +19,35 @@ El análisis microlocal es una herramienta clave en el estudio de ecuaciones dif
 
 <br>
 
-1. **Teoría de distribuciones**
-   - Operaciones en $\mathcal{D}'(X)$ y principio de dualidad  
-   - Transformada de Fourier  
+1. **Teoría de distribuciones**<br>
+   - Operaciones en $\mathcal{D}'(X)$ y principio de dualidad <br> 
+   - Transformada de Fourier  <br>
 
-2. **Operadores integrales de Fourier**
-   - Espacio de símbolos y sus propiedades  
-   - Integrales oscilatorias clásicas y operadores integrales de Fourier  
-   - Método de la fase estacionaria  
+2. **Operadores integrales de Fourier**<br>
+   - Espacio de símbolos y sus propiedades  <br>
+   - Integrales oscilatorias clásicas y operadores integrales de Fourier  <br>
+   - Método de la fase estacionaria  <br>
 
-3. **Operadores pseudodiferenciales**
-   - Propiedad pseudo-local  
-   - Operadores propiamente soportados y sus consecuencias  
-   - Cálculo de operadores pseudodiferenciales  
+3. **Operadores pseudodiferenciales**<br>
+   - Propiedad pseudo-local  <br>
+   - Operadores propiamente soportados y sus consecuencias  <br>
+   - Cálculo de operadores pseudodiferenciales  <br>
 
-4. **Operadores elípticos y continuidad en espacios de Sobolev**
-   - Construcción de parametrix elíptica  
-   - Continuidad en $L^2$ y $H^s$  
-   - Aplicaciones a EDP  
+4. **Operadores elípticos y continuidad en espacios de Sobolev**<br>
+   - Construcción de parametrix elíptica  <br>
+   - Continuidad en $L^2$ y $H^s$  <br>
+   - Aplicaciones a EDP  <br>
 
-5. **Wavefront set**
-   - Caracterizaciones de $\operatorname{WF}(u)$  
-   - Propiedad microlocal  
-   - Teorema de Hörmander  
+5. **Wavefront set**<br>
+   - Caracterizaciones de $\operatorname{WF}(u)$  <br>
+   - Propiedad microlocal  <br>
+   - Teorema de Hörmander  <br>
 
-6. **Medida de defecto microlocal y semiclásica**
-   - Geometría simpléctica  
-   - Definición y consecuencias  
-   - Flujo Hamiltoniano y rayos bicaracterísticos  
-   - Teorema de propagación  
+6. **Medida de defecto microlocal y semiclásica**<br>
+   - Geometría simpléctica  <br>
+   - Definición y consecuencias  <br>
+   - Flujo Hamiltoniano y rayos bicaracterísticos  <br>
+   - Teorema de propagación  <br>
 
 </details>
 
