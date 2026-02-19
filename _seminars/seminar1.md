@@ -47,6 +47,7 @@ El análisis microlocal es una herramienta clave en el estudio de ecuaciones dif
 
 ## Referencias
 
-* B. Palacios, *Notas de Análisis Microlocal*.
-* A. Grigis, J. Sjöstrand, *Microlocal Analysis for Differential Operators*.
-* P. Hintz, *Microlocal Analysis*.
+* B. Palacios. *Notas de Análisis Microlocal*.
+* A. Grigis, J. Sjöstrand. *Microlocal Analysis for Differential Operators: An introduction*. Cambridge University Press
+* P. Hintz. *An introduction to Microlocal Analysis*. Springer.
+* L. Hörmander. *The Analysis of Linear Partial Differential Operators I-IV*. Springer Science & Business Media
