@@ -15,7 +15,7 @@ Facultad de Matemáticas, Pontificia Universidad Católica de Chile, Santiago y 
 El análisis microlocal es una herramienta clave en el estudio de ecuaciones diferenciales parciales, que ha permitid oavances significativos en áreas como la teoría de control, la estabilización de soluciones y los problemas inversos. En este seminario veremos una introducción a la teoría, cuyos contenidos son como siguen
 
 1. Teoría de distribuciones
-  - Operaciones en \(\mathcal{D}'(X)\) y principio de dualidad
+  - Operaciones en $\mathcal{D}'(X)$ y principio de dualidad
   - Transformada de Fourier
 
 2. Operadores integrales de Fourier
@@ -30,4 +30,23 @@ El análisis microlocal es una herramienta clave en el estudio de ecuaciones dif
 
 4. Operadores elípticos, continuidad en espacios de Sobolev
 - Operadores elípticos y construcción de parametrix elíptica
-- Teorema de continuidad para operadores pseudodiferenciales en \(L^2\) y $H^s$
+- Teorema de continuidad para operadores pseudodiferenciales en $L^2$ y $H^s$
+- Aplicaciones a EDP: soluciones locales de EDPs elípticas con coeficientes suaves
+
+5. Wavefront set
+- Caracterizaciones de $\operatorname{WF}(u)$.
+- Propiedad microlocal de operadores pseudodiferenciales.
+- Teorema de Hörmander.
+
+6. Medida de defecto microlocal y semiclásica
+- Introducción a la geometría simpléctica
+- Definición de medida de defecto microlocal y consecuencias.
+- Flujo Hamiltoniano y rayos bicaracterísticos.
+- Teorema de propagación y aplicaciones en la ecuación de ondas.
+
+
+## Referencias
+
+* B. Palacios, *Notas de Análisis Microlocal*.
+* A. Grigis, J. Sjöstrand, *Microlocal Analysis for Differential Operators*.
+* P. Hintz, *Microlocal Analysis*.
