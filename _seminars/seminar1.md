@@ -15,7 +15,7 @@ Facultad de Matemáticas, Pontificia Universidad Católica de Chile, Santiago y 
 El análisis microlocal es una herramienta clave en el estudio de ecuaciones diferenciales parciales, que ha permitid oavances significativos en áreas como la teoría de control, la estabilización de soluciones y los problemas inversos. En este seminario veremos una introducción a la teoría, cuyos contenidos son como siguen
 
 1. Teoría de distribuciones
-  - Operaciones en \(\mathcal{D}'(X)\) y principio de dualidad
+  - Operaciones en \[\mathcal{D}'(X)\] y principio de dualidad
   - Transformada de Fourier
 
 2. Operadores integrales de Fourier
