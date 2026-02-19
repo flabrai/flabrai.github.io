@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Seminars
+mathjax: true
 ---
 
 ## Organized Seminars
