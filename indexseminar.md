@@ -20,4 +20,4 @@ Some of the seminars in which I have been part of the organization
 
 ## Talks on seminars
 
-* Introducción a EDPs en geometría Riemanniana. [Seminario de Geometría Riemanniana 2025](https://www.mat.uc.cl/seminarios/slgr.html)
+* Introducción a EDPs en geometría Riemanniana. [Seminario de Geometría Riemanniana 2025, PUC.](https://www.mat.uc.cl/seminarios/slgr.html) [Notas](https://github.com/flabrai/flabrai.github.io/blob/master/Documentos/EDP_GeometriaRiemanniana.pdf).
