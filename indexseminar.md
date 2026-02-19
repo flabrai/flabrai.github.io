@@ -6,7 +6,7 @@ mathjax: true
 
 ## Organized Seminars
 
-prueba 2 olakase
+Some of the seminars in which I have been part of the organization
 
 <ul>
 {% for seminar in site.seminars %}
@@ -17,3 +17,7 @@ prueba 2 olakase
   </li>
 {% endfor %}
 </ul>
+
+## Talks on seminars
+
+* Introducción a EDPs en geometría Riemanniana. [Seminario de Geometría Riemanniana 2025](https://www.mat.uc.cl/seminarios/slgr.html)
