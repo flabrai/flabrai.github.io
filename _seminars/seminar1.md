@@ -24,30 +24,30 @@ El análisis microlocal es una herramienta clave en el estudio de ecuaciones dif
    &nbsp;&nbsp;- Transformada de Fourier  <br>
 
 2. <strong>Operadores integrales de Fourier</strong><br>
-   - Espacio de símbolos y sus propiedades  <br>
-   - Integrales oscilatorias clásicas y operadores integrales de Fourier  <br>
-   - Método de la fase estacionaria  <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;- Espacio de símbolos y sus propiedades  <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;- Integrales oscilatorias clásicas y operadores integrales de Fourier  <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;- Método de la fase estacionaria  <br>
 
 3. <strong>Operadores pseudodiferenciales</strong><br>
-   - Propiedad pseudo-local  <br>
-   - Operadores propiamente soportados y sus consecuencias  <br>
-   - Cálculo de operadores pseudodiferenciales  <br>
+   &nbsp;&nbsp;&nbsp;- Propiedad pseudo-local  <br>
+   &nbsp;&nbsp;&nbsp;- Operadores propiamente soportados y sus consecuencias  <br>
+   &nbsp;&nbsp;&nbsp;- Cálculo de operadores pseudodiferenciales  <br>
 
 4. <strong>Operadores elípticos y continuidad en espacios de Sobolev</strong><br>
-   - Construcción de parametrix elíptica  <br>
-   - Continuidad en $L^2$ y $H^s$  <br>
-   - Aplicaciones a EDP  <br>
+   &nbsp;&nbsp;&nbsp;- Construcción de parametrix elíptica  <br>
+   &nbsp;&nbsp;&nbsp;- Continuidad en $L^2$ y $H^s$  <br>
+   &nbsp;&nbsp;&nbsp;- Aplicaciones a EDP  <br>
 
 5. <strong>Wavefront set</strong><br>
-   - Caracterizaciones de $\operatorname{WF}(u)$  <br>
-   - Propiedad microlocal  <br>
-   - Teorema de Hörmander  <br>
+   &nbsp;&nbsp;&nbsp;- Caracterizaciones de $\operatorname{WF}(u)$  <br>
+   &nbsp;&nbsp;&nbsp;- Propiedad microlocal  <br>
+   &nbsp;&nbsp;&nbsp;- Teorema de Hörmander  <br>
 
 6. <strong>Medida de defecto microlocal y semiclásica</strong><br>
-   - Geometría simpléctica  <br>
-   - Definición y consecuencias  <br>
-   - Flujo Hamiltoniano y rayos bicaracterísticos  <br>
-   - Teorema de propagación  <br>
+   &nbsp;- Geometría simpléctica  <br>
+   &nbsp;- Definición y consecuencias  <br>
+   &nbsp;- Flujo Hamiltoniano y rayos bicaracterísticos  <br>
+   &nbsp;- Teorema de propagación  <br>
 
 </details>
 
