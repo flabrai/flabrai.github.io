@@ -14,35 +14,42 @@ Facultad de Matemáticas, Pontificia Universidad Católica de Chile, Santiago y 
 
 El análisis microlocal es una herramienta clave en el estudio de ecuaciones diferenciales parciales, que ha permitid oavances significativos en áreas como la teoría de control, la estabilización de soluciones y los problemas inversos. En este seminario veremos una introducción a la teoría, cuyos contenidos son como siguen
 
-1. Teoría de distribuciones
-  - Operaciones en $\mathcal{D}'(X)$ y principio de dualidad
-  - Transformada de Fourier
+<details>
+<summary><strong>Contenidos</strong></summary>
 
-2. Operadores integrales de Fourier
-  - Espacio de símbolos y sus propiedades
-  - Integrales oscilatorias clásicas y Operadores integrales de Fourier
-  - Método de la fase estacionaria
+<br>
 
-3. Operadores Pseudodiferenciales
-  - Propiedad pseudo-local
-  - Operadores propiamente soportados y sus consecuencias
-  - Cálculo de operadores pseudodiferenciales
+1. **Teoría de distribuciones**
+   - Operaciones en $\mathcal{D}'(X)$ y principio de dualidad  
+   - Transformada de Fourier  
 
-4. Operadores elípticos, continuidad en espacios de Sobolev
-- Operadores elípticos y construcción de parametrix elíptica
-- Teorema de continuidad para operadores pseudodiferenciales en $L^2$ y $H^s$
-- Aplicaciones a EDP: soluciones locales de EDPs elípticas con coeficientes suaves
+2. **Operadores integrales de Fourier**
+   - Espacio de símbolos y sus propiedades  
+   - Integrales oscilatorias clásicas y operadores integrales de Fourier  
+   - Método de la fase estacionaria  
 
-5. Wavefront set
-- Caracterizaciones de $\operatorname{WF}(u)$.
-- Propiedad microlocal de operadores pseudodiferenciales.
-- Teorema de Hörmander.
+3. **Operadores pseudodiferenciales**
+   - Propiedad pseudo-local  
+   - Operadores propiamente soportados y sus consecuencias  
+   - Cálculo de operadores pseudodiferenciales  
 
-6. Medida de defecto microlocal y semiclásica
-- Introducción a la geometría simpléctica
-- Definición de medida de defecto microlocal y consecuencias.
-- Flujo Hamiltoniano y rayos bicaracterísticos.
-- Teorema de propagación y aplicaciones en la ecuación de ondas.
+4. **Operadores elípticos y continuidad en espacios de Sobolev**
+   - Construcción de parametrix elíptica  
+   - Continuidad en $L^2$ y $H^s$  
+   - Aplicaciones a EDP  
+
+5. **Wavefront set**
+   - Caracterizaciones de $\operatorname{WF}(u)$  
+   - Propiedad microlocal  
+   - Teorema de Hörmander  
+
+6. **Medida de defecto microlocal y semiclásica**
+   - Geometría simpléctica  
+   - Definición y consecuencias  
+   - Flujo Hamiltoniano y rayos bicaracterísticos  
+   - Teorema de propagación  
+
+</details>
 
 
 ## Referencias
