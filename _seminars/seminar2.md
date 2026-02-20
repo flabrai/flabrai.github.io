@@ -4,7 +4,7 @@ title: Seminario de Teoría de Semigrupos de Operadores 2023-2
 date: 2026-01-01
 ---
 
-Departamento de Matemática, Universdiad Técnica Federico Santa María (Valparaíso, Chile).
+Departamento de Matemática, Universidad Técnica Federico Santa María (Valparaíso, Chile).
 
 Organizadores:
 * Tomás Cortés (USM)
