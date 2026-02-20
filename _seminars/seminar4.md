@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Seminario de estudio: Control de EDP y Problemas Inversos
+title: Seminario de estudio Control de EDP y Problemas Inversos
 date: 2026-01-01
 ---
 
