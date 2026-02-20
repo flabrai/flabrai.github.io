@@ -7,8 +7,13 @@ mathjax: true
 
 # Seminario de Análisis Microlocal
 
-Facultad de Matemáticas, Pontificia Universidad Católica de Chile, Santiago y Departamento de Matemática, Universidad Técnica Federico Santa María, Valparaíso.
+Facultad de Matemáticas, Pontificia Universidad Católica de Chile (Santiago) y Departamento de Matemática, Universidad Técnica Federico Santa María (Valparaíso, Chile).
 
+Organizadores:
+* Tomás Cortés (USM)
+* Felipe Labra (PUC)
+* Alberto Mercado (USM)
+* Benjamín Palacios (PUC)
 
 ## Descripción
 
