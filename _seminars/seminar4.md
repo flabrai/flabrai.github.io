@@ -22,8 +22,8 @@ El objetivo es estudiar técnicas y argumentos que se usan en investigación. El
 
 # Presentaciones
 
-*21/08/2025 (Tomás Cortés) Teoría de semigrupos de operadores lineales.
-*04/09/2025 (Jefferson Prada) Método de los momentos.
-*09/09/2025 (Christian Calle) Métodos de estabilización de EDPs con perturbaciones.
-*23/10/2025 (Manuel Prado) Las estimaciones de Carleman en el contexto estocástico y semidiscreto.
-*06/11/2025 (Felipe Labra) Semigrupos de operadores no lineales.
+* 21/08/2025 (Tomás Cortés) Teoría de semigrupos de operadores lineales.
+* 04/09/2025 (Jefferson Prada) Método de los momentos.
+* 09/09/2025 (Christian Calle) Métodos de estabilización de EDPs con perturbaciones.
+* 23/10/2025 (Manuel Prado) Las estimaciones de Carleman en el contexto estocástico y semidiscreto.
+* 06/11/2025 (Felipe Labra) Semigrupos de operadores no lineales.
