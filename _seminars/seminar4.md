@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Seminario de estudio Control de EDP y Problemas Inversos
-permalink: _seminars/seminar4.md/
 date: 2026-01-01
 ---
 
