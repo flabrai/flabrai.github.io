@@ -5,7 +5,41 @@ permalink: _seminars/seminar1.md/
 mathjax: true
 ---
 
-# Seminario de Análisis Microlocal
+
+# Seminario de Análisis Microlocal 2026
+
+
+Facultad de Matemáticas, Pontificia Universidad Católica de Chile.
+
+Organizadores:
+* Tomás Cortés (USM)
+* Felipe Labra (PUC)
+* Cristóbal Loyola (USorbonne)
+* Benjamín Palacios (PUC)
+
+## Descripción
+
+En esta versión del seminario nos enfocaremos en estrategias tipo Lebeau-Robbiano para estabilización de EDP. Posteriormente estudiaremos los argumentos previos a esta caja negra para probar las hipótesis necesarias del argumento. Para ello estudiaremos desigualdades espectrales y cómo obtenerlas en algunos casos siguiendo argumentos de tipo lifting elíptico, desigualdades de Carleman y resultados tipo propagation of smallness.
+
+# Presentaciones
+
+* 07/04/2026 (Felipe Labra) Costo del control a cero y método de Lebeau-Robbiano.
+* 14/04/2026 (Felipe Labra) Construcciones tipo Lebeau-Robbiano.
+* 28/04/2026 (Tomás Cortés) Estrategia Lebeau-Robbiano para la observabilidad de semigrupos tipo calor.
+* 05/05/2026 (Felipe Labra) Observabilidad de semigrupos tipo calor: Ejemplos.
+* 12/05/2026 (Cristóbal Loyola) Propagation of smallness.
+* 26/05/2026 (Felipe Labra) Propagation of smallness 2.
+
+## Referencias
+
+* F. Marbach. *Time-iteration methods for controllability*
+* G. Lebeau, L. Robbiano. *Exact control of the heat equation*
+* J. Le Rousseau, G. Lebeau, L. Robbiano. *Elliptic Carleman estimates and applications to stabilization and controllability. Volume 1.*
+* L. Miller. *A direct Lebeau-Robbiano strategy for the observability of heat-like semigroups.*
+* N. Burq, I. Moyano. *Propagation of smallness and control for heat equations.
+* N. Burq, I. Moyano. *Propagation of smallness and spectral estimates*
+
+# Seminario de Análisis Microlocal 2024 - 2025
 
 Facultad de Matemáticas, Pontificia Universidad Católica de Chile (Santiago) y Departamento de Matemática, Universidad Técnica Federico Santa María (Valparaíso, Chile).
 
