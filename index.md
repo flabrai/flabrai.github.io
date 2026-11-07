@@ -14,7 +14,7 @@ permalink: /
 <img src="{{ '/foto.jpeg' | relative_url }}" 
      width="60%" 
      align="right" 
-     style="margin-left: 20px; margin-bottom: 15px;">
+     style="margin-left: 200px; margin-bottom: 15px;">
 
 
 
