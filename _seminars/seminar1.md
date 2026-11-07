@@ -23,12 +23,15 @@ En esta versión del seminario nos enfocaremos en estrategias tipo Lebeau-Robbia
 
 # Presentaciones
 
-* 07/04/2026 (Felipe Labra) Costo del control a cero y método de Lebeau-Robbiano.
-* 14/04/2026 (Felipe Labra) Construcciones tipo Lebeau-Robbiano.
+* 07/04/2026 (Felipe Labra) [Costo del control a cero y método de Lebeau-Robbiano.](/Documentos/SeminarioLebeauRobbiano1.pdf)
+* 14/04/2026 (Felipe Labra) [Construcciones tipo Lebeau-Robbiano.](/Documentos/SeminarioLebeauRobbiano2.pdf)
 * 28/04/2026 (Tomás Cortés) Estrategia Lebeau-Robbiano para la observabilidad de semigrupos tipo calor.
-* 05/05/2026 (Felipe Labra) Observabilidad de semigrupos tipo calor: Ejemplos.
+* 05/05/2026 (Felipe Labra) [Observabilidad de semigrupos tipo calor: Ejemplos.](/Documentos/SeminarioLebeauRobbiano4.pdf)
 * 12/05/2026 (Cristóbal Loyola) Propagation of smallness.
-* 26/05/2026 (Felipe Labra) Propagation of smallness 2.
+* 26/05/2026 (Felipe Labra) [Propagation of smallness 2.](/Documentos/SpectralEstimateLR5.pdf)
+* 02/06/2026 (Felipe Labra) [Propagation of smallness 3.](/Documentos/SpectralEstimateLR7.pdf)
+* 09/06/2026 (Felipe Labra) [Propagation of smallness 4.](/Documentos/DoubleManifoldBlackBox4.pdf)
+* 23/06/2026 (Tomás Cortés) On the dimension of observable sets for the heat equation
 
 ## Referencias
 
@@ -51,7 +54,7 @@ Organizadores:
 
 ## Descripción
 
-El análisis microlocal es una herramienta clave en el estudio de ecuaciones diferenciales parciales, que ha permitid oavances significativos en áreas como la teoría de control, la estabilización de soluciones y los problemas inversos. En este seminario veremos una introducción a la teoría, cuyos contenidos son como siguen
+El análisis microlocal es una herramienta clave en el estudio de ecuaciones diferenciales parciales, que ha permitido avances significativos en áreas como la teoría de control, la estabilización de soluciones y los problemas inversos. En este seminario veremos una introducción a la teoría, cuyos contenidos son como siguen
 
 <details>
 <summary><strong>Contenidos</strong></summary>
