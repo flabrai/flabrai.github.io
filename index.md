@@ -18,14 +18,12 @@ permalink: /
 
 
 
+I'm a PhD student at the Universidad de Sevilla, Spain, advised by [Anna Doubova](https://personal.us.es/doubova/) and [Enrique Fernández-Cara](https://scholar.google.com/citations?user=cMKza3UAAAAJ&hl=es). Previously, I completed a Master’s degree in Mathematics at Pontificia Universidad Católica de Chile under the supervision of [Eduardo Cerpa](https://www.mat.uc.cl/~eduardo.cerpa/), and a professional degree in Mathematical Engineering at Universidad Técnica Federico Santa María under the supervision of [Patricio Guzmán](http://pguzman.mat.utfsm.cl/) and [Hugo Parada](https://sites.google.com/view/hugo-parada).
 
-
-I am a mathematician based in Chile. I am currently pursuing a Master's degree in Mathematics at Pontificia Universidad Católica de Chile under the supervision of [Eduardo Cerpa](https://www.mat.uc.cl/~eduardo.cerpa/). I previously obtained in 2024 a professional degree in Mathematical Engineering at Universidad Técnica Federico Santa María, Valparaíso, where I worked under the supervision of [Patricio Guzmán](http://pguzman.mat.utfsm.cl/) and [Hugo Parada](https://sites.google.com/view/hugo-parada).
 
 ## Research interests
 
-My research focuses on Partial Differential Equations (PDE), Control Theory, and stabilization problems.
+Partial Differential Equations, Microlocal Analysis, Control Theory, Inverse Problems and Stabilization of PDEs.
 
-On mostly of my masters studies I've been studying microlocal analysis and it's applications to stabilization and inverse problems. On my master's thesis I'm studying the robust stabilization of a 2x2 coupled hyperbolic system under small perturbations.
 
-#### Contact: flabrai-at-estudiante.uc.cl, fnlabrairribarra-at-gmail.com
+#### Contact: fellabirr-at-alum.us.es, flabrai-at-estudiante.uc.cl, fnlabrairribarra-at-gmail.com
