@@ -16,3 +16,8 @@ permalink: "/CV/"
   Thesis: [**Feedback stabilization of the linear Kuramoto-Sivashinsky equation with saturated controls.**](/Documentos/MemoriaING_Felipe_Labra.pdf),                 [Beamer](/Documentos/Defensa_Memoria-1.pdf). <br>
   Advisors: [Patricio Guzmán](https://pguzman.mat.utfsm.cl/) and [Hugo Parada](https://sites.google.com/view/hugo-parada).
 - 2018–2021: **Bachelor of Science in Mathematical Engineering**, Universidad Técnica Federico Santa María, Valparaíso, Chile.
+
+
+## Research service 
+
+- 2026: Automatica.
